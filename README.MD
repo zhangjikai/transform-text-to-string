@@ -1,14 +1,14 @@
 # Transform Text to String
 Transform multiple line text to string format. 
 
-original text:
-```bash
+original text: 
+```
 aaaaaa
 aaaaaaaaaa
 ggggggggg
 gggggggg
 ```
-conversion text
+conversion text: 
 ```
 "aaaaaa\n" + 
 "aaaaaaaaaa\n" + 
