@@ -142,5 +142,6 @@ window.onload = function () {
         quoteConfig.attachEvent("change", quoteChange);
     }
     loadSetting();
+
 };
 
